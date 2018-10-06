@@ -9,8 +9,10 @@ for i in range(0,n):
     dot.edge(edge[0],edge[1],label=edge[2])
 
 print(dot.source)
-dot.save('file.gv')
-dot.render('file.gv', view=True)
+# dot.save('file.gv')
+dot.save('output.gv')
+#dot.render('file.gv', view=True)
+dot.render('output.gv', view=True)
 
 
 '''Sample Input ,Format : node1 node2 label_of_edge 
