@@ -1,3 +1,7 @@
+'''
+    Program to identify the type of graph
+'''
+
 from graphviz import Graph
 
 dot = Graph(comment='Simple Graph')
