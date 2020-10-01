@@ -1,5 +1,5 @@
 '''
-    Program to display the graph
+    Program to display the graph.
 '''
 
 import networkx as nx
