@@ -1,3 +1,7 @@
+'''
+    Program to display the graph
+'''
+
 import networkx as nx
 import matplotlib.pyplot as plt
 
